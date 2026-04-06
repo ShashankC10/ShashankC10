@@ -20,7 +20,7 @@
 - 🎓 Master's in Computer Science at **Texas A&M University** (4.0 GPA, May 2027)
 - 🏗️ ~3 years of backend engineering experience at **Sixt Rent a Car** — distributed systems, IoT pipelines, and microservices at scale
 - 🤖 Focused on **AI/ML systems** and **infrastructure tooling** — building things that work in production, not just notebooks
-- 🔍 Actively seeking **AI/ML & SWE internships for Summer 2026**
+- 🔍 Actively seeking **AI/ML & SWE internships for Summer/Fall 2026**
 
 ---
 
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <i>Open to Summer 2026 internships in AI/ML engineering and backend systems.</i>
+  <i>Open to Summer/Fall 2026 internships in AI/ML engineering and backend systems.</i>
 </p>
